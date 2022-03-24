@@ -1,2 +1,3 @@
-main changes - other main changes
-some changes - some main changes
+main changes - conflict 
+some changes - conflict
+conflicted+main
