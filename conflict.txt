@@ -1,2 +1,2 @@
-main changes
-some changes
+main changes - other main changes
+some changes - some main changes
