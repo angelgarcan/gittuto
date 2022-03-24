@@ -1,1 +1,2 @@
-some changes
+main changes - conflict 
+some changes - conflict
