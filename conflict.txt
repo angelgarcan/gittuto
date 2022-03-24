@@ -1,3 +1,4 @@
 main changes - conflict 
 some changes - conflict
 conflicted+main
+modified file
