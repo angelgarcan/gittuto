@@ -1,3 +1,4 @@
 Feature X
 more changes
 extra line
+main rebase line
